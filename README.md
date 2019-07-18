@@ -1,5 +1,7 @@
 ## SNGLS2.0 Project Management
 
+### **TOKEN MIGRATION READY DATE: December 1st, 2019**
+
 ### Previous SNGLS2.0 Project Calls
 
  №  | Date                             | Notes          | Recording            |
