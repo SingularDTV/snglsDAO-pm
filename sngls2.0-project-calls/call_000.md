@@ -69,13 +69,13 @@ Attendees: Zach LeBeau, Amrita Rizal, Cezar Paraschiv, Dragos Rizescu, & Troy Mu
 
 **Zach:** C our goal when we do the swap to 2.0 is to do a big campaign, focused on Asia, using Jack and the resources there. One of the most important things in order to be successful is to have Chinese language dapp - when?
 
-**Cezar:**Having another language is not a big of an issue, the challenging part is that is the content uploaded by the artist - problem is that in Breaker if they browse through all the content, all the content is english and some in Chinese
+**Cezar:** Having another language is not a big of an issue, the challenging part is that is the content uploaded by the artist - problem is that in Breaker if they browse through all the content, all the content is english and some in Chinese
 
-**Troy:**No need to have all the content translated, if they can't read the content metadat they won't be watching it.  How long will it take to get the UI transalted?
+**Troy:** No need to have all the content translated, if they can't read the content metadat they won't be watching it.  How long will it take to get the UI transalted?
 
-**Cezar:**I don’t really have an answer right now, but it will probably take like a month with all the details
+**Cezar:** I don’t really have an answer right now, but it will probably take like a month with all the details
 
-**Troy:**Okay, Jack is gonna be on the next call so we will pencil it in for him next time to talk about
+**Troy:** Okay, Jack is gonna be on the next call so we will pencil it in for him next time to talk about
 
 
 
