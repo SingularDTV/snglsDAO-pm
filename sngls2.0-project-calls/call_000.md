@@ -6,7 +6,9 @@
 ### Audio/Video of the meeting (N/A)
 
 Moderator: Troy Murray
+
 Scribe: Dragos Rizescu & Troy Murray
+
 Attendees: Zach LeBeau, Amrita Rizal, Cezar Paraschiv, Dragos Rizescu, & Troy Murray
 
 ## Update on SNGLSDAO.io
