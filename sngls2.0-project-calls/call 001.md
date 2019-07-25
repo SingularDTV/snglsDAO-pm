@@ -42,7 +42,7 @@ Attendees: Zach LeBeau, Cezar Paraschiv, Dragos Rizescu, Milad Mostavi, Bogdan B
 - Milad and Troy present Whitepaper
 - Get the FE completed for SNGLSDAO.io
 - Get Jack on the Discourse forum and set up a Chinese section
-- Zach presents presents the communication flow next week...assets, hiring, and budget will come from this.
+- Zach presents the communication flow next week...assets, hiring, and budget will come from this.
 - Carl's good news on what the lawyers think in Switzerland
 
 
