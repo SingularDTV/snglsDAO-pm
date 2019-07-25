@@ -6,5 +6,8 @@
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
- 0  | Thu, Jun 18, 2019 14:00 UTC       | [agenda](https://github.com/SingularDTV/sngls2.0-pm/issues/1) \| [notes](https://github.com/SingularDTV/sngls2.0-pm/blob/master/sngls2.0-project-calls/call_000.md)     | [video (N/A)]() |
+ 0  | Thu, Jun 18, 2019 14:00 UTC       | [agenda](https://github.com/SingularDTV/sngls2.0-pm/issues/1) \| [notes](https://github.com/SingularDTV/sngls2.0-pm/blob/master/sngls2.0-project-calls/call_000.md)     |  |
+ 1  | Thu, Jun 25, 2019 15:00 UTC       | [agenda](https://github.com/SingularDTV/sngls2.0-pm/issues/2) \| [notes]()     | [video ]() |
+ 
+
  
