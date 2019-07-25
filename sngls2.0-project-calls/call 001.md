@@ -16,7 +16,7 @@ Attendees: Zach LeBeau, Cezar Paraschiv, Dragos Rizescu, Milad Mostavi, Bogdan B
 -SingularDTV discourse is up and running: [forum.snglsDAO.io](https://forum.SNGLSDAO.io)
 
 ## SNGLS.IO Stack Update
--Dragos was able to remove the BE stack, still working on making the FE up and running - is expecting 10h left
+- Dragos was able to remove the BE stack, still working on making the FE up and running - is expecting 10h left
 - Feedback
   - Publish to DMOB until stuff is ready
   - Talk with Bogdan about design help
