@@ -1,4 +1,4 @@
-# SNGLS2.0 Project Call 1 Notes
+# SNGLS2.0 Project Call 2 Notes
 
 ### Meeting Date/Time: Thursday Aug 1, 2019 at 15:00 GMT
 ### Meeting Duration: 1 hour
