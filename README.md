@@ -2,6 +2,8 @@
 
 ### **TOKEN MIGRATION READY DATE: December 1st, 2019**
 
+### [SNGLS2.0 White Paper](https://github.com/SingularDTV/whitepaper)
+
 ### Previous SNGLS2.0 Project Calls
 
  №  | Date                             | Notes          | Recording            |
