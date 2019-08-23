@@ -12,6 +12,8 @@
  1  | Thu, Jul 25, 2019 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/2) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_001.md)     | [video](https://zoom.us/recording/share/k-PEBSP6EJdjntwE3y_aQFLzNnZK7T_AunuAUowULLuwIumekTziMw?startTime=1564066494000) |
  2  | Thu, Aug 1, 2019 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/3) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_002.md)     | [video](https://zoom.us/recording/share/crd6BEsDsIxblBA-nuxTEvCHDCuFQ4nHs-6DKpqtPwSwIumekTziMw?startTime=1564671256000) |
  3  | Friday, Aug 16, 2019 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/4) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_003.md)     | [video](https://zoom.us/recording/) |
+ 4  | Thursday, Aug 22, 2019 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/5) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_004.md)     | [video](https://zoom.us/recording/) |
+ 
  
  
  
