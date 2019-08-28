@@ -3,7 +3,7 @@
 ### Meeting Date/Time: Thursday July 25, 2019 at 15:00 GMT
 ### Meeting Duration: 1 hour
 ### [GitHub Agenda Page](https://github.com/SingularDTV/snglsdao-pm/issues/2)
-### [Audio/Video of the meeting](https://zoom.us/recording/share/k-PEBSP6EJdjntwE3y_aQFLzNnZK7T_AunuAUowULLuwIumekTziMw?startTime=1564066494000)
+### [Audio/Video of the meeting](https://breaker.io)
 
 Moderator: Troy Murray
 
