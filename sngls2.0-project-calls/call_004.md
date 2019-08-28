@@ -29,6 +29,7 @@ Schedule for Bucharest
 - Tuesday will be for Breaker USA
 
 Zach’s article
+	
 	Jack
 		Started to do the translation
 		Jack is curious what Troy meant about mirroring the Ethereum foundation
@@ -51,9 +52,9 @@ Zach’s article
 	Jack
 		Also gives token purchaser who is not very technically advanced the ability to simply upgrade the token.
 
-Zach
-Using the exchanges makes a lot of sense from a marketing perspective
-Issue will be getting the bandwidth of the devs on the exchanges 
+	Zach
+		Using the exchanges makes a lot of sense from a marketing perspective
+		Issue will be getting the bandwidth of the devs on the exchanges 
 
 	Jack
 		We should get in touch with the exchanges we are listed on right now
