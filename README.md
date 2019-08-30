@@ -13,6 +13,7 @@
  2  | Thu, Aug 1, 2019 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/3) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_002.md)     | [video](https://breaker.io) |
  3  | Fri, Aug 16, 2019 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/4) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_003.md)     | [video](https://breaker.io/) |
  4  | Thu, Aug 22, 2019 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/5) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_004.md)     | [video](https://breaker.io) |
+ 5  | Thu, Aug 29, 2019 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/6) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_005.md)     | [video](https://breaker.io) |
  
  
  
