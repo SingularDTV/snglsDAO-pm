@@ -9,7 +9,7 @@ Moderator: Troy Murray
 
 Scribe: Troy Murray
 
-Attendees: Zach LeBeau, Dragos Rizescu, Bogdan Burcea, Cezar Paraschiv, Jack Cheng, Eric Chan & Troy Murray
+Attendees: Zach LeBeau, Dragos Rizescu, Cezar Paraschiv, Jack Cheng, Eric Chan & Troy Murray
 
 ## Tech/Marketing
 
