@@ -21,7 +21,7 @@ Podcast and videos will be housed Breaker DApp
 
 Schedule for Bucharest
 - Breakout system
-- Jack and Cezar will bring add to the schedule
+- Jack and Cezar will add to the schedule
 - First day is legal and processes
 - Wednesday will be for marketing
 - Thursday is Website design
