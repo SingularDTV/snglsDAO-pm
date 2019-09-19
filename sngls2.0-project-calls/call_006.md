@@ -33,3 +33,4 @@ Attendees: Zach LeBeau, Milad Mostavi, Dragos Rizescu, Cezar Paraschiv, Bogdan B
   - Will also create another parameter that the DAO will have control over as the amount you will need to hold will be voted on by the DAO.
 - CONs of Protocol layer implimentation
   - Could hurt the tokenomics of the system, but there could be more than enough liquidity being driven to the DAO treasury through other means.
+- Business Models: Like BNB or IDEX coin on exchanges where you don't have to pay an exchange rate on the exchanges if you hold the token
