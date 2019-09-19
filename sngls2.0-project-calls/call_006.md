@@ -17,7 +17,7 @@ Attendees: Zach LeBeau, Milad Mostavi, Dragos Rizescu, Cezar Paraschiv, Bogdan B
 - Oct 2nd?
 - Feels like we are a week behind and we need to keeping pushing
 - Things are moving forward
-- Concept: Explain the DAO, media distribution protocol, & how BREAKER sits on top of it
+- Flagshit Video Concept: Explain the DAO, media distribution protocol, & how BREAKER sits on top of it
 - Jack needs to send over content structure
 
 ### Progress on BREAKER dapp translated to Chinese
