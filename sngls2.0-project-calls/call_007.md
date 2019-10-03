@@ -20,6 +20,29 @@ Attendees: Zach LeBeau, Milad Mostavi, Dragos Rizescu, Tyler Ward, Jack Cheng, E
     - Z: Wherever the macro marketing strategy is coming from it will funnel on both sides
     - Z: Find our groove in the next 4 weeks as we generate the marketing assets
     - TW: There is a cultural difference between the geographies — some stuff that doesn’t overlap, however seeing what works in one region it will give you an idea of another region — humans are humans
+- Every single dollar that is put in the marketing, KPIs need to be well defined — when it comes on the other end, we know exactly what we did.
+
+### Website updates
+- Jack is taking over the development of that
+- J: Separate into phases
+        - Phase 1 - small intro with link to whitepaper, discord link and videos
+        - Phase 2 - the comprehensive website proposed before — analytics information portal => transparency
+            - Check screenshot on iphone
+            - Should point that the information is coming from the Breaker Dapp
+            - This is great information that helps content creators
+    - Landing page should look pretty close to where we are trying to get
+    - Wordpress?
+        - Better if there a simple structure to be put on github and can be easily modified
+        - Everyone likes that idea — headless CMS, markdown docs on github
+    - Connecting the data from the analytics platform to the website?
+        - Integrate with an iframe in the website or through an API
+    - Multi language support? Designs are completely different
+         - More compact in the Asia market, much more information
+    
+### Exchange Listings
+- Who is handling the token migration wrt exchanges listing?
+    - Listed to some people internally, bigger issue dealing with our general councel
+    - Z: Q1 2020 conversation, now we need to get the website up, the marketing up in Q4 2019 — not necessary to spent a lot of resources on that
 
 
 
