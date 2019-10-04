@@ -8,7 +8,7 @@ Moderator: Troy Murray
 
 Scribe: Dragos Rizescu
 
-Attendees: Zach LeBeau, Milad Mostavi, Dragos Rizescu, Tyler Ward, Jack Cheng, Eric Chan & Troy Murray
+Attendees: Zach LeBeau, Kim Jackson, Milad Mostavi, Dragos Rizescu, Tyler Ward, Jack Cheng, Eric Chan & Troy Murray
 
 ## Tech/Marketing
 
