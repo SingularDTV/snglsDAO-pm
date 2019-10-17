@@ -1,6 +1,7 @@
 ## SNGLS DAO Project Management
 
-### **TOKEN MIGRATION READY DATE: December 1st, 2019**
+### **TOKEN MIGRATION CODE READY DATE: December 1st, 2019**
+#### **TOKEN MIGRATION ACTIVATION: Q1 2020**
 
 ### [SNGLS DAO White Paper](https://github.com/SingularDTV/whitepaper)
 
