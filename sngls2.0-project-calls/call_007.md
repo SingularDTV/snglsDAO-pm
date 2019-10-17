@@ -1,4 +1,4 @@
-# SNGLS DAO Project Call 6 Notes
+# SNGLS DAO Project Call 7 Notes
 
 ### Meeting Date/Time: Thursday Oct 3, 2019 at 15:00 GMT
 ### Meeting Duration: 1 hour
