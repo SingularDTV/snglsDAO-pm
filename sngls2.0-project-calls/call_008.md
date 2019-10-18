@@ -12,7 +12,7 @@ Attendees: Milad Mostavi, Dragos Rizescu, Cezar Paraschiv, Tyler Ward, Jack Chen
 
 ## Tech/Marketing
 
-Website wireframes
+###Website wireframes
    - Jack presents
    - Where do the View More take you from the stats?
    - Tyler— only a subset of people will understand what this stats represent, example MakerDAO website
