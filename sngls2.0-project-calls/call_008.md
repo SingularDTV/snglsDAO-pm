@@ -13,12 +13,12 @@ Attendees: Milad Mostavi, Dragos Rizescu, Cezar Paraschiv, Tyler Ward, Jack Chen
 ## Tech/Marketing
 
 Website wireframes
-    - Jack presents
-    - Where do the View More take you from the stats?
-    - Tyler— only a subset of people will understand what this stats represent, example MakerDAO website
-    - Kim is very keen on showing the Breaker stats
-    - Jack to do the design and the development
-    - Availability on launching the website?
+   - Jack presents
+   - Where do the View More take you from the stats?
+   - Tyler— only a subset of people will understand what this stats represent, example MakerDAO website
+   - Kim is very keen on showing the Breaker stats
+   - Jack to do the design and the development
+   - Availability on launching the website?
         - Done to be done by the end of the month
         - Jack asks for input in the content and to provide feedback
 
