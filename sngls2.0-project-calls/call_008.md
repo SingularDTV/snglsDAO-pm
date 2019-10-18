@@ -32,7 +32,8 @@ Attendees: Milad Mostavi, Dragos Rizescu, Cezar Paraschiv, Tyler Ward, Jack Chen
         - Educate Breaker followers - break the SDTV twitter from Breaker
    - Tyler going to NY next week to figure out the messaging for the campaign
    - Utilize CodeFund, positive because it’s a very eth centric audience
-   - Brave is also a very good place to advertise. Issue with Brave, as a metric we will have to send them to a specific page for conversion metric.
+   - Brave is also a very good place to advertise. 
+      - Issue with Brave, as a metric we will have to send them to a specific page for conversion metric.
    - Influencers work better in the East, however we want to leverage in the West, eth community — Podcasts
    - State of the Dapps, very good metrics by analyzing MakerDao— in works to get SDTV there
    - Currently the spreadsheet is to test of the theory, step 1— step 2 is to test the theory, step 3 is to improve this.
