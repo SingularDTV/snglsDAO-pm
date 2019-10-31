@@ -3,7 +3,7 @@
 ### Meeting Date/Time: Thursday Oct 31, 2019 at 15:00 GMT
 ### Meeting Duration: 1 hour
 ### [GitHub Agenda Page](https://github.com/SingularDTV/snglsdao-pm/issues/11)
-### [Audio/Video of the meeting]()
+### [Audio/Video of the meeting](https://x.breaker.io/?type=series&id=a2f603dc22a1be4fa8d4ef9ce455360bf3ab8ce772526e35fef79175fa1dfadf&season=1ce1e2eede2395de6351df4d9e6db8069a198e127a178d3ea684e4eafc2f4a4c&episode=81cbdfaf5b3f3694d4f4ed868f5c8f4f1ff74b4ba992c98181b172912a7483a6)
 Moderator: Troy Murray
 
 Scribe: Dragos Rizescu
