@@ -37,7 +37,6 @@ Attendees: Zach LeBeau, Milad Mostavi, Dragos Rizescu, Cezar Paraschiv, Tyler Wa
     - Right now we are gathering new followers and we are doing this w/o a website.
     - The top performing piece of creating is the zombi rat.
     - “Film is dead, go love yourself” another campaign we did 
-
     - Creating our own characters is something we should look into
     - Updates from Zach?
         - There are some teasers, videos that are ready to go next week
