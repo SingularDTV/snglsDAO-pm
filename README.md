@@ -1,7 +1,6 @@
 ## SNGLS DAO Project Management
 
-### **TOKEN FORK CODE READY DATE: December 1st, 2019**
-#### **TOKEN FORK: Q1 2020**
+### **TOKEN FORK: Q1 2020**
 
 ### [SNGLS DAO White Paper](https://github.com/SingularDTV/whitepaper)
 
