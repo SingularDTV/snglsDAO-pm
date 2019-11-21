@@ -16,4 +16,7 @@ Attendees: Zach LeBeau, Dragos Rizescu, Milad Mostavi, Tyler Ward, Jack Cheng, E
   - Updating exchange information is going very well
   
 ### America/Europe Marketing Update
-  - 
+  - Twitter hit 2k followers this week
+  - Newletter is getting ready to be sent out
+  
+
