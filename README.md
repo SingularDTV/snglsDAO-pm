@@ -1,10 +1,10 @@
-## SNGLS DAO Project Management
+## snglsDAO Project Management
 
 ### **TOKEN FORK: Q1 2020**
 
-### [SNGLS DAO White Paper](https://github.com/SingularDTV/whitepaper)
+### [snglsDAO White Paper](https://github.com/SingularDTV/whitepaper)
 
-### Previous SNGLS DAO Project Calls
+### Previous snglsDAO Project Calls
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
