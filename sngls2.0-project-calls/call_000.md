@@ -1,4 +1,4 @@
-# SNGLS DAO Project Call 0 Notes
+# snglsDAO Project Call 0 Notes
 
 ### Meeting Date/Time: Thursday July 18, 2019 at 14:00 GMT
 ### Meeting Duration: 1 hour
@@ -11,7 +11,7 @@ Scribe: Dragos Rizescu & Troy Murray
 
 Attendees: Zach LeBeau, Amrita Rizal, Cezar Paraschiv, Dragos Rizescu, & Troy Murray
 
-## Update on SNGLSDAO.io
+## Update on snglsDAO.io
 **Dragos:**
 - 3 year old code base
 - 20 hours of effort to update from old codebase to a more modern stack
