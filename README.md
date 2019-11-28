@@ -1,6 +1,6 @@
 ## snglsDAO Project Management
 
-### **TOKEN FORK: Q1 2020**
+### **TOKEN SWAP: Q1 2020**
 
 ### [snglsDAO White Paper](https://github.com/SingularDTV/whitepaper)
 
