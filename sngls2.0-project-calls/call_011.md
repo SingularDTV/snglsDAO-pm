@@ -1,4 +1,4 @@
-# SNGLS DAO Project Call 11 Notes
+# snglsDAO Project Call 11 Notes
 
 ### Meeting Date/Time: Thursday Nov 7, 2019 at 15:00 GMT
 ### Meeting Duration: 1 hour
