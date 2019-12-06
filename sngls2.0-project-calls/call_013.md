@@ -14,7 +14,7 @@ Attendees: Zach LeBeau, Dragos Rizescu, Milad Mostavi, Tyler Ward, James Thorbur
 
 - Token Migration => Milad, is there a need to have the new SC interact with the old SC?
     - Tokit concern? No concern, SNGLS can be swapped with whatever
-    - > Migration of the token can be done quick?
+        - Migration of the token can be done quick?
     - The swap contract itself is pretty easy, however we need an UI around it or have instructions
     - Tokit would be a good point on how to start to UI
 - Marketing Update China
@@ -24,5 +24,5 @@ Attendees: Zach LeBeau, Dragos Rizescu, Milad Mostavi, Tyler Ward, James Thorbur
 - Marketing Update US
     - Email templates are in work, GDPR convos with Carl
     - Use the original lists, however those lists have been mingled with Breaker
-    - => we are sending a new opt-in email to those lists
+        - we are sending a new opt-in email to those lists
     - Good email open range => 42%
