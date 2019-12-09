@@ -4,6 +4,8 @@
 
 ### [snglsDAO White Paper](https://github.com/SingularDTV/whitepaper)
 
+### [snglsDAO Website](https://snglsDAO.io)
+
 ### Previous snglsDAO Project Calls
 
  №  | Date                             | Notes          | Recording            |
