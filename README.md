@@ -2,9 +2,7 @@
 
 ### **TOKEN SWAP: Q1 2020**
 
-### [snglsDAO White Paper](https://github.com/SingularDTV/whitepaper)
-
-### [snglsDAO Website](https://snglsDAO.io)
+### [White Paper](https://github.com/SingularDTV/whitepaper) / [Website](https://snglsDAO.io)
 
 ### Previous snglsDAO Project Calls
 
