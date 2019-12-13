@@ -8,7 +8,7 @@ Moderator: Troy Murray
 
 Scribe: Dragos Rizescu
 
-Attendees: Zach LeBeau, Cezar Paraschiv, Milad Mostavi, Tyler Ward, James Thorburn, Jack Cheng, Eric Chan & Troy Murray
+Attendees: Zach LeBeau, Cezar Paraschiv, Milad Mostavi, Tyler Ward, Hartej Sawhney, James Thorburn, Jack Cheng, Eric Chan & Troy Murray
 
 ## Tech
 * Plan for next year is to attack the whole build in a compartmentalized development — split up in 3 departments
