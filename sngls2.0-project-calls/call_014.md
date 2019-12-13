@@ -13,3 +13,5 @@ Attendees: Zach LeBeau, Cezar Paraschiv, Milad Mostavi, Tyler Ward, James Thorbu
 ## Tech
 
 ## Marketing
+
+### NOTES COMING SOON....our scribe is flying over the Atlantic right now on his way home
