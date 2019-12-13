@@ -11,7 +11,51 @@ Scribe: Dragos Rizescu
 Attendees: Zach LeBeau, Cezar Paraschiv, Milad Mostavi, Tyler Ward, James Thorburn, Jack Cheng, Eric Chan & Troy Murray
 
 ## Tech
+Plan for next year is to attack the whole build in a compartmentalized development — split up in 3 departments
+Departments work in parallel, but to the same goal to achieve efficiency and keep the overhead at a minimum
+Departments:
+Content mining — the biggest, hardest
+Token swap and the DAO work
+Open source UI, the EtherVision — the dapp but w/o the traditional monetary part so no KYC required, all that stuff
+Hartej intro
+CEO and co-founder of Zoyko — cyber security and digital product agency
+Based in Banglor India, Ukraine and Vegas
+Zoyko will be taking over some of the work that Milad and company has been doing
+Content mining by Milad
+Token swap/DAO and UI by Zoyko
 
-## Marketing
+## Marketing NA/Europe
+Tyler, Twitter, over 3500 followers
+Working on content is the focus to serve the follower base created
+Last week some podcast were worked
+A couple of good podcasts created, not officially release
+Official release will be done on the email marketing campaigns
+Work done on website and email templates
+Email acquisition efforts will start in the next 48h on more mediums than Twitter
+Reallocate Twitter budget to other mediums
+The Twitter following growth should stop — we are using tools to make sure that high quality followers — followers that have multiple interests, DeFi Protocols, DAO Protocols, every single CSYS Spoke, every big Ethereum project <= goal is to let all the community know what the snglsDAO is.
+Next focus is email and content on other mediums
+Which each iteration everything gets better and better, after the NYE, it will be a larger period of time, and the results of this will be even more visible
+Other medium — Facebook page, acquisition on Facebook, Brave
+Even tho crypto hates Facebook, it’s the best medium for demographic marketing specially when you want to get something back such as email for campaign etc
+Facebook is against crypto however you can still talk about topics such as deentralization
 
-### NOTES COMING SOON....our scribe is flying over the Atlantic right now on his way home
+## Marketing Asia
+Jack, Weibo.com, in comparison to Twitter or Facebook, is more your target audience engagement driven (?) — gamification content, article publishing, lucky challenge stuff => everything to excite your audiance
+Were are not yet verified by Weibo.com — there are some words that are not allowed such as crypto or blockchain
+The content need to be rewritten to submit the version again — started already on that
+Weibo started 3 weeks ago, goal is to get to the crypto community there which is pretty goad
+There is a strategy in place to get to them, through PMs, get them in and then preset the DAO, get them to the homepage and to follow
+Multiple articles are present on the homepage in different shapes to try to understand what engages the most the audience
+> Updates regarding changing the listings on different websites such as binance, livecoinwatch, coinmarketcap? Comes a lot in the community about that
+Initial batch has been sent, half of them has been updated to snglsDAO new information
+However some website are very hard to reach
+
+## Misc
+Troy, News on Twitter from Jack regarding making the platform a decentralized platform
+For the community, a lot of the things Jack is talking about in that tweet storm are ideas we have been pushing in the last year
+This is a good example for us that we are ahead of the curve for a lot of this ideas
+We have been pushing forward to achieve this things that are talked at a high level inside the tech community
+Zach, on another note, more to come after the NYE, there a lot of things going on that are being put together to a place to be talked in public
+Next call on the 9th of Jan 2020, however things are in monition, on autopilot
+Happy new year!
