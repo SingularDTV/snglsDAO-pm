@@ -9,3 +9,5 @@ Moderator: Troy Murray
 Scribe: Dragos Rizescu
 
 Attendees: Zach LeBeau, Cezar Paraschiv, Milad Mostavi, Tyler Ward, Hartej Sawhney, Pavlo Bendus, Jack Cheng, Eric Chan, Mark Tsyrulnik, Aleksei Korobeinikov & Troy Murray
+
+NOTES COMING SOON
