@@ -12,11 +12,11 @@ Attendees: Zach LeBeau, Cezar Paraschiv, Milad Mostavi, Tyler Ward, Hartej Sawhn
 
 ## Tech
 - Ethereum ecosystem, sharding is being pushed out and the expectation is that the current projects to be compatible — will it be a viable option to keep that implemented?
-- Milad: Build with the presumption that layer 1 will not be ready and we should scale on layer 2
-- Alex to do some research on the topic
+  - Milad: Build with the presumption that layer 1 will not be ready and we should scale on layer 2
+  - Alex to do some research on the topic
 - Over the break multiple sessions of brain storming with Milad and the rest of the development team => decentralize everything in terms of development, have a breakout session next Tuesday
 - Alex, the top priority for the dev team is the token swap, schedule finish in Q1, finish the spec by the end of next week or the week afterwards
-- Create the specs in the next 10 days, they will be reviewed by Milad
+  - Create the specs in the next 10 days, they will be reviewed by Milad
 
 ## Marketing US/EU
 - Pavlo on Tyler’s team
@@ -31,15 +31,15 @@ Attendees: Zach LeBeau, Cezar Paraschiv, Milad Mostavi, Tyler Ward, Hartej Sawhn
 - We cannot get verified on Weibo.com, they are agains crypto
 - Switch focus on WeeChat for marketing where we got verified
   - Updates regarding changing the listings on different websites such as binance, livecoinwatch, coinmarketcap? 
-- Work in progress, multiple websites have been updated already, however places such as coinmarketcap give no response — reaching out to the audience if anyone can help there
+    - Work in progress, multiple websites have been updated already, however places such as coinmarketcap give no response — reaching out to the audience if anyone can help there
 - Work on a marketing campaign for the Chinese New Year, do a meetup afterwards for the community to offer updates
 
 ## Misc
 - Zach has an outline ready to go for the SNGLS DAO treasury — there is some legal items keeping it in place
-- 400M founders SNGLS tokens locked for 2 years
-- They have been unlocked 16 months ago
-- In the process to setup 2 treasuries: SingularDTV and SNGLSDAO
-- As soon as the legal work is done, the process to move the tokens to the SNGLSDAO treasury
-- Numbers are not well defined yet
+  - 400M founders SNGLS tokens locked for 2 years
+  - They have been unlocked 16 months ago
+  - In the process to setup 2 treasuries: SingularDTV and SNGLSDAO
+  - As soon as the legal work is done, the process to move the tokens to the SNGLSDAO treasury
+  - Numbers are not well defined yet
 - Zach is very interesting in the rollout plan for the token swap — the strategy for the marketing needs to be very well setup up
 
