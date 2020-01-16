@@ -25,8 +25,8 @@ Attendees: Milad Mostavi, Dragos Rizescu, Tyler Ward, Hartej Sawhney, Jack Cheng
    - Milad: Yes
  - Blaize: Payments — the payment repo has payment per content, but doesn’t have listing, validator fee payment — is the functionality eveyrthing
    - Milad: The listing fee, validator fee is part of the DAO, part of the Mining module
-        - What you can do for the token contract, add dynamic support for all ERC20 tokens — for example the DAI token address changed, right now only works with Ether
-         - The goal is to support any token for payments on Breaker for example
+    - What you can do for the token contract, add dynamic support for all ERC20 tokens — for example the DAI token address changed, right now only works with Ether
+     - The goal is to support any token for payments on Breaker for example
   - Blaize: Swap token, what we do with old tokens, burn them?
           - Milad: The only way you can burn them is to send them to the 0 address, but you can block them in the contract
 
