@@ -28,7 +28,7 @@ Attendees: Milad Mostavi, Dragos Rizescu, Tyler Ward, Hartej Sawhney, Jack Cheng
         - What you can do for the token contract, add dynamic support for all ERC20 tokens — for example the DAI token address changed, right now only works with Ether
          - The goal is to support any token for payments on Breaker for example
   - Blaize: Swap token, what we do with old tokens, burn them?
-          - > Milad: The only way you can burn them is to send them to the 0 address, but you can block them in the contract
+          - Milad: The only way you can burn them is to send them to the 0 address, but you can block them in the contract
 
 ## Marketing Asia
 - Report on the market and exchanges information — send out next Monday, Jack writing the report
