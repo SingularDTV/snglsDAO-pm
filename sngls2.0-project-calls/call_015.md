@@ -26,7 +26,7 @@ Attendees: Zach LeBeau, Cezar Paraschiv, Milad Mostavi, Tyler Ward, Hartej Sawhn
 - All copy written for the email need to be turn into articles
 - Crossed 5000 email contacts and slowly try to re-engage the old email community that was interesting in SingularDTV
 - Meanwhile we are working with the Breaker marketing app to increase the app installs so it helps SNGLSDAO — create a network effect
-
+- To refresh the connections with old intresting with project community you should first think about changing long lasting token downtrend to positive
 ## Marketing Asia
 - We cannot get verified on Weibo.com, they are agains crypto
 - Switch focus on WeeChat for marketing where we got verified
