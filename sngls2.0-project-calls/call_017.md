@@ -7,6 +7,6 @@
 
 Scribe: Dragos Rizescu
 
-Attendees: Milad Mostavi, Dragos Rizescu, Tyler Ward, Eric Chan, Aleksei Korobeinikov, & Troy Murray
+Attendees: Milad Mostavi, Dragos Rizescu, Cezar Paraschiv, Tyler Ward, Eric Chan, Aleksei Korobeinikov, & Troy Murray
 
 ## Tech
