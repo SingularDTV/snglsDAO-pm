@@ -11,7 +11,5 @@ Scribe: Dragos Rizescu
 
 Attendees: Milad Mostavi, Cezar Paraschiv, Tyler Ward, Jack Cheng, Hartej Sawhney, Eric Chan, Aleksei Korobeinikov, & Troy Murray
 
-## Tech
-
-NOTES COMING SOON
+# NOTES UNAVAILABLE
 
