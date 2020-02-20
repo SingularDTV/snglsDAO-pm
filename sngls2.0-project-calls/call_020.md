@@ -9,6 +9,4 @@ Scribe: Dragos Rizescu
 
 Attendees: Tyler Ward, Jack Cheng, Hartej Sawhney, Eric Chan, & Troy Murray
 
-## Tech
-
-NOTES COMING SOON
+# NOTES UNAVAILABLE
