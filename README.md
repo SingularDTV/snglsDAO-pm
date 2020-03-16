@@ -1,6 +1,6 @@
 ## snglsDAO Project Management
 
-### **TOKEN SWAP: Q1 2020**
+### **TOKEN AIRDROP: Q2 2020**
 
 ### [White Paper](https://github.com/SingularDTV/whitepaper) / [Website](https://snglsDAO.io)
 
@@ -31,7 +31,7 @@
    20  | Thu, Feb 13, 2020 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/22) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_020.md)     | [video](https://x.breaker.io/?type=series&id=a2f603dc22a1be4fa8d4ef9ce455360bf3ab8ce772526e35fef79175fa1dfadf&season=1ce1e2eede2395de6351df4d9e6db8069a198e127a178d3ea684e4eafc2f4a4c&episode=831fa50062f25b50193f2e6a33b470c6c83265f8b3687931ad925f65f34676c1) |
    21  | Thu, Feb 20, 2020 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/23) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_021.md)     | [video](https://x.breaker.io/?type=series&id=a2f603dc22a1be4fa8d4ef9ce455360bf3ab8ce772526e35fef79175fa1dfadf&season=1ce1e2eede2395de6351df4d9e6db8069a198e127a178d3ea684e4eafc2f4a4c&episode=f63dec0573feab73970fddba8ee11c0c3785ab993aa5b53835a47755fc4c2a59) |
    22  | Thu, Mar 5, 2020 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/24) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_022.md)     | [video](https://x.breaker.io/?type=series&id=a2f603dc22a1be4fa8d4ef9ce455360bf3ab8ce772526e35fef79175fa1dfadf&season=1ce1e2eede2395de6351df4d9e6db8069a198e127a178d3ea684e4eafc2f4a4c&episode=9be625f3df84601bef2aa3e54231bea14c0ad690def83fe9f2b8ba4aefe3ecad) |
- 
+   23  | Thu, Mar 19, 2020 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/25) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_023.md)     | [video]() |
  
  
  
