@@ -8,6 +8,6 @@ Moderator: Troy Murray
 
 Scribe: 
 
-Attendees: Tyler Ward, Jack Cheng, Zach LeBeau, Aleksei Korobeinikov, Eric Chan, & Troy Murray
+Attendees: Tyler Ward, Jack Cheng, Zach LeBeau, Eric Chan, & Troy Murray
 
 # NOTES UNAVAILABLE
