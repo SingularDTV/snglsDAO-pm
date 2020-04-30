@@ -1,4 +1,4 @@
-# snglsDAO Project Call 24 Notes
+# snglsDAO Project Call 25 Notes
 
 ### Meeting Date/Time: Thursday APR 16, 2020 at 15:00 GMT
 ### Meeting Duration: 1 hour
