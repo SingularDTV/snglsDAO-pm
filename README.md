@@ -1,6 +1,8 @@
 ## snglsDAO Project Management
 
-### **TOKEN AIRDROP: Q2 2020**
+### SNGLS TOKEN SNAPSHOT: June 15th
+### TOKEN AIRDROP: June 19th
+### **DAO LAUNCH: June 24th**
 
 ### [White Paper](https://github.com/SingularDTV/whitepaper) / [Website](https://snglsDAO.io)
 
