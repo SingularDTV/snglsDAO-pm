@@ -2,7 +2,7 @@
 
 ### SNGLS TOKEN SNAPSHOT: June 15th
 ### TOKEN AIRDROP: June 19th
-### **DAO LAUNCH: June 24th**
+### **DAO LAUNCH: June 29th**
 
 ### [White Paper](https://github.com/SingularDTV/whitepaper) / [Website](https://snglsDAO.io)
 
