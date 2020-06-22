@@ -1,7 +1,7 @@
 ## snglsDAO Project Management
 
-### SNGLS TOKEN SNAPSHOT: June 15th
-### TOKEN AIRDROP: June 19th
+### SNGLS TOKEN SNAPSHOT: June 15th *COMPLETE*
+### TOKEN AIRDROP: June 19th *COMPLETE*
 ### **DAO LAUNCH: June 29th**
 
 ### [White Paper](https://github.com/SingularDTV/whitepaper) / [Website](https://snglsDAO.io)
@@ -40,6 +40,7 @@
    27  | Thu, May 14, 2020 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/29) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_027.md)     | [video](https://x.breaker.io/?type=series&id=a2f603dc22a1be4fa8d4ef9ce455360bf3ab8ce772526e35fef79175fa1dfadf&season=1ce1e2eede2395de6351df4d9e6db8069a198e127a178d3ea684e4eafc2f4a4c&episode=4c171a5fb00d9a69fcc826c75d3cf058c05b3f9d04ef94bcd27d67623b159444) |
    28  | Thu, May 27, 2020 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/30) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_028.md)     | [video](https://x.breaker.io/?type=series&id=a2f603dc22a1be4fa8d4ef9ce455360bf3ab8ce772526e35fef79175fa1dfadf&season=1ce1e2eede2395de6351df4d9e6db8069a198e127a178d3ea684e4eafc2f4a4c&episode=d674e75136f574421892a84cdff54921ac7e4952f8267a4affa6d66aa9b06e66) |
    29  | Thu, June 11, 2020 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/31) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_029.md)     | [video](https://x.breaker.io/?type=series&id=a2f603dc22a1be4fa8d4ef9ce455360bf3ab8ce772526e35fef79175fa1dfadf&season=1ce1e2eede2395de6351df4d9e6db8069a198e127a178d3ea684e4eafc2f4a4c&episode=ab32192afc8cc709b0ce9af2566a2792035391eb107d828421643ca8d632da8b) |
+   30  | Thu, June 25, 2020 15:00 UTC       | [agenda](https://github.com/SingularDTV/snglsdao-pm/issues/32) \| [notes](https://github.com/SingularDTV/snglsdao-pm/blob/master/sngls2.0-project-calls/call_030.md)     | [video]() |
  
  
  
